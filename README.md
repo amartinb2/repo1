@@ -1,1 +1,2 @@
-# repo1
+# sample-repository
+Sample project GitHub repository
